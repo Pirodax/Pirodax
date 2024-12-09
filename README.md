@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pirodax
+- 👋 Hi, I’m @Pirodax (Ludovic BERGERON)
 - 👀 I’m interested in software engineering (creat mobile and web app) and AI
 - 🌱 I’m currently learning **C**, **JavaScript (TypeScript)**, **HTML**, **CSS**, and **SQL**.
 - 💞️ I’m looking to collaborate on ...
