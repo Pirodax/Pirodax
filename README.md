@@ -2,13 +2,14 @@
   <h1>👋 Salut, moi c'est Ludo</h1>
   <h3>Full-Stack Developer & AI Enthusiast</h3>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bergeronludovic.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bergeron@et.esiea.fr)
+  <a href="https://bergeronludovic.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
+  </a>
+  <a href="mailto:bergeron@et.esiea.fr">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=000000" alt="Email"/>
+  </a>
 </div>
-
----
-
-### 🚀 À propos de moi
+### À propos de moi
 
 Développeur passionné par la création d'applications **mobiles**, **web** et l'intégration de l'**IA**. 
 J'aime transformer des idées en produits concrets et fonctionnels.
@@ -19,8 +20,8 @@ const skills = {
   mobile: ['Flutter', 'Dart'],
   web: ['TypeScript', 'JavaScript', 'HTML/CSS'],
   backend: ['Supabase', 'SQL', 'Python'],
-  learning: ['C', 'Java'],
-  interests: ['AI/ML', 'Computer Vision']
+  interests: ['AI/ML', 'Computer Vision'],
+  other: ['C', 'Java']
 }
 ```
 
