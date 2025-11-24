@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=000000" alt="Email"/>
   </a>
 </div>
-### À propos de moi
 
+### À propos de moi
 Développeur passionné par la création d'applications **mobiles**, **web** et l'intégration de l'**IA**. 
 J'aime transformer des idées en produits concrets et fonctionnels.
 
