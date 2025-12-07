@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Salut, moi c'est Ludo</h1>
+  <h1> Salut, moi c'est Ludo</h1>
   <h3>Full-Stack Developer & AI Enthusiast</h3>
   
   <a href="https://bergeronludovic.vercel.app/">
