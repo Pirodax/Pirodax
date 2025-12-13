@@ -2,7 +2,7 @@
   <h1> Salut, moi c'est Ludo</h1>
   <h3>Full-Stack Developer & AI Enthusiast</h3>
   
-  <a href="https://bergeronludovic.vercel.app/">
+  <a href="https://ludovicbergeron.com">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
   </a>
   <a href="mailto:bergeron@et.esiea.fr">
@@ -19,9 +19,9 @@ J'aime transformer des idées en produits concrets et fonctionnels.
 const skills = {
   mobile: ['Flutter', 'Dart'],
   web: ['TypeScript', 'JavaScript', 'HTML/CSS'],
-  backend: ['Supabase', 'SQL', 'Python'],
-  interests: ['AI/ML', 'Computer Vision'],
-  other: ['C', 'Java']
+  backend: ['Supabase', 'PostgreSQL'],
+  interests: ['AI/ML', 'Data Science'],
+  other: ['Python', 'C', 'Java']
 }
 ```
 
@@ -29,13 +29,14 @@ const skills = {
 
 - 📱 **loodo_app** - Application mobile de productivité pour les étudiants et entrepreneurs 
 - 🌐 **Sosoft** - Logiciel de création de site web
+- 🏥 **Mutuelia** - Application mobile permettant aux utilisateurs de simuler leurs droits de remboursement
 - 🤖 **IA** - Spécialisation dans l'IA, création d'algorithmes et intégration d'outils boostés à l'IA
 
 ### 📫 Contact
 
 Tu veux collaborer ou discuter tech ? 
 
-**→** [Mon Portfolio](https://bergeronludovic.vercel.app/) | **→** [Email Professionnel](mailto:bergeron@et.esiea.fr)
+**→** [Mon Portfolio](https://ludovicbergeron/) | **→** [Email Professionnel](mailto:bergeron@et.esiea.fr)
 
 ---
 
