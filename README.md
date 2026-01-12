@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Salut, moi c'est Ludo</h1>
-  <h3>Full-Stack Developer & AI Enthusiast</h3>
+  <h3>Full-Stack Developer & AI </h3>
   
   <a href="https://ludovicbergeron.com">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
