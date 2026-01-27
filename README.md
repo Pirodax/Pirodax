@@ -28,7 +28,7 @@ const skills = {
 ### 🔥 Projets en cours
 
 - 📱 **loodo_app** - Application mobile de productivité pour les étudiants et entrepreneurs 
-- 🌐 **Sosoft** - Logiciel de création de site web
+- 🌐 **Ludovic Bergeron digital** - Micro entreprise où je vend mes services de dev 
 - 🏥 **Mutuelia** - Application mobile permettant aux utilisateurs de simuler leurs droits de remboursement
 - 🤖 **IA** - Spécialisation dans l'IA, création d'algorithmes et intégration d'outils boostés à l'IA
 
