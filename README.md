@@ -1,50 +1,77 @@
 <div align="center">
-  <h1> Salut, moi c'est Ludo</h1>
-  <h3>Full-Stack Developer & AI </h3>
-  
+  <h1>Hi, I'm Ludo 👋</h1>
+  <h3>Full-Stack Developer & AI Enthusiast</h3>
+
   <a href="https://ludovicbergeron.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" />
   </a>
   <a href="mailto:bergeron@et.esiea.fr">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=000000" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=000000" />
   </a>
 </div>
 
-### À propos de moi
-Développeur passionné par la création d'applications **mobiles**, **web** et l'intégration de l'**IA**. 
-J'aime transformer des idées en produits concrets et fonctionnels.
+---
 
-### 💻 Stack Technique
-```javascript
-const skills = {
-  mobile: ['Flutter', 'Dart'],
-  web: ['TypeScript', 'JavaScript', 'HTML/CSS'],
-  backend: ['Supabase', 'PostgreSQL'],
-  interests: ['AI/ML', 'Data Science'],
-  other: ['Python', 'C', 'Java']
-}
-```
+## 🚀 About Me
 
-### 🔥 Projets en cours
+Passionate developer focused on building **mobile apps**, **web applications**, and integrating **AI into real products**.  
+I enjoy turning ideas into concrete, useful, and scalable solutions.
 
-- 📱 **loodo_app** - Application mobile de productivité pour les étudiants et entrepreneurs 
-- 🌐 **Ludovic Bergeron digital** - Micro entreprise où je vend mes services de dev 
-- 🏥 **Mutuelia** - Application mobile permettant aux utilisateurs de simuler leurs droits de remboursement
-- 🤖 **IA** - Spécialisation dans l'IA, création d'algorithmes et intégration d'outils boostés à l'IA
+---
 
-### 📫 Contact
+## 💻 Tech Stack
 
-Tu veux collaborer ou discuter tech ? 
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**→** [Mon Portfolio](https://ludovicbergeron/) | **→** [Email Professionnel](mailto:bergeron@et.esiea.fr)
+### 🌐 Web
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+### 🛠 Backend & DB
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+
+### 🤖 AI & Data
+![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge)
+
+### ⚙️ Other
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+
+---
+
+## 🔥 Current Projects
+
+- 📱 **loodo_app**  
+  Productivity app for students & entrepreneurs  
+
+- 🌐 **Ludovic Bergeron Digital**  
+  Micro-business providing development services  
+
+- 🏥 **Mutuelia**  
+  Mobile app to simulate healthcare reimbursements  
+
+- 🤖 **AI Projects**  
+  AI specialization, algorithm design & AI-powered integrations  
+
+---
+
+## 📫 Contact
+
+Want to collaborate or talk tech?
+
+- 🌐 Portfolio: https://ludovicbergeron.com  
+- 📧 Email: bergeron@et.esiea.fr  
+- 💼 LinkedIn: https://www.linkedin.com/in/bergeronludovic/
 
 ---
 
 <div align="center">
-  <i>« Code avec passion, ship avec confiance »</i>
+  <i>"Code with passion, ship with confidence."</i>
 </div>
-
-<!---
-Pirodax/Pirodax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
