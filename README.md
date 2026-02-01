@@ -3,10 +3,10 @@
   <h3>Full-Stack Developer & AI Enthusiast</h3>
 
   <a href="https://ludovicbergeron.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5865F2?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:bergeron@et.esiea.fr">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -22,27 +22,27 @@ I enjoy turning ideas into concrete, useful, and scalable solutions.
 ## 💻 Tech Stack
 
 ### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Backend & DB
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Data
-![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-111111?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-111111?style=for-the-badge)
 
 ### ⚙️ Other
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -52,19 +52,17 @@ I enjoy turning ideas into concrete, useful, and scalable solutions.
   Productivity app for students & entrepreneurs  
 
 - 🌐 **Ludovic Bergeron Digital**  
-  Micro-business providing development services  
+  Development micro-business  
 
 - 🏥 **Mutuelia**  
-  Mobile app to simulate healthcare reimbursements  
+  Healthcare reimbursement simulator  
 
 - 🤖 **AI Projects**  
-  AI specialization, algorithm design & AI-powered integrations  
+  AI algorithms & integrations  
 
 ---
 
 ## 📫 Contact
-
-Want to collaborate or talk tech?
 
 - 🌐 Portfolio: https://ludovicbergeron.com  
 - 📧 Email: bergeron@et.esiea.fr  
