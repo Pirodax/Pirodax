@@ -2,7 +2,7 @@
   <h1>Hi, I'm Ludo 👋</h1>
   <h3>Full-Stack Developer & AI Enthusiast</h3>
 
-  <a href="https://ludovicbergeron.com">
+  <a href="https://ludovic-bergeron.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:bergeron@et.esiea.fr">
@@ -64,7 +64,7 @@ I enjoy turning ideas into concrete, useful, and scalable solutions.
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://ludovicbergeron.com  
+- 🌐 Portfolio: https://ludovic-bergeron.com  
 - 📧 Email: bergeron@et.esiea.fr  
 - 💼 LinkedIn: https://www.linkedin.com/in/bergeronludovic/
 
