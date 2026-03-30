@@ -64,7 +64,7 @@ I enjoy turning ideas into concrete, useful, and scalable solutions.
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://ludovic-bergeron.com  
+- 🌐 Portfolio: https://ludovicbergeron.com  
 - 📧 Email: bergeron@et.esiea.fr  
 - 💼 LinkedIn: https://www.linkedin.com/in/bergeronludovic/
 
