@@ -27,5 +27,4 @@ On-device: MediaPipe · LiteRT / TFLite · LiteRT-LM
 
 Portfolio - https://ludovicbergeron.com
 LinkedIn - https://linkedin.com/in/bergeronludovic
-Hugging Face - https://hf.co/Pirodax
 Email - bergeron@et.esiea.fr
